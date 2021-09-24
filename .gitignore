@@ -1,3 +1,15 @@
 venv/
 .idea/
+
 insta_settings.py
+
+
+vacancies*
+
+
+
+__pycache__
+res.json
+conf.py
+
+
