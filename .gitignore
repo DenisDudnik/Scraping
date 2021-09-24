@@ -1,5 +1,11 @@
 venv/
 .idea/
+
 vacancies*
+
+
+
 __pycache__
+res.json
 conf.py
+
